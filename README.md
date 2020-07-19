@@ -1,6 +1,6 @@
 ### Hi, I'm Vijai. 👋
 
-## I'm a Developer :)
+## I'm a Developer 😍
 
 ![bg][banner]
 
