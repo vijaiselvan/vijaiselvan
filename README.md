@@ -2,7 +2,7 @@
 
 ## I'm a Developer :)
 
-[![bg][banner]]
+![bg][banner]
 
 A CSE student passionate in developing websites. The hands-on learning approach and the willingness to learn about web is the reason why I choose web development as my field of interest. 
 
