@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on creating Front End Websites.
 - 🤔 I’m looking for help with design.
 - 💬 Ask me about Front End Development & Design.
-- 📫 How to reach me: ...
+- 📫 How to reach me: vijayselvanvj@gmail.com
 - 😄 Pronouns: he/him
 - 💜 loving css, react, design, nodejs.
 
