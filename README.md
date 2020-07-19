@@ -2,6 +2,8 @@
 
 ## I'm a Developer :)
 
+[![bg][banner]]
+
 A CSE student passionate in developing websites. The hands-on learning approach and the willingness to learn about web is the reason why I choose web development as my field of interest. 
 
 > * Experience in creating comprehensive web applications using MERN stack implemented with MongoDB, Express JS, React and Node.js.
@@ -24,6 +26,7 @@ A CSE student passionate in developing websites. The hands-on learning approach 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
+[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [twitter]: https://twitter.com/IamVj_45
 [instagram]: https://instagram.com/vijay_selvan_45
 [linkedin]: https://www.linkedin.com/in/vijai-selvan-a5490018b/
