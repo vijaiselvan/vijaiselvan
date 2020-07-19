@@ -4,26 +4,18 @@
 
 - 🔭 I’m currently working on building a website for a small business.
 - 🌱 I’m currently learning Design, Advanced Front End Topics.
-- 👯 I’m looking to collaborate on creating Frontend websites.
-- 🤔 I’m looking for help with design
+- 👯 I’m looking to collaborate on creating Front End Websites.
+- 🤔 I’m looking for help with design.
 - 💬 Ask me about Front End Development & Design.
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
-- 💜 loving css, react, design, nodejs
+- 💜 loving css, react, design, nodejs.
 
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
-[adobe]: https://adobe.com
-[react]: http://reactjs.org
-[gatsby]: https://gatsbyjs.org
-[styled]: https://styled-components.com
-[jamstack]: https://jamstack.org
-[murphee]: https://murphee.netlify.app
-[svelte]: https://svelte.dev
-[tailwind]: https://tailwindcss.com
-[website]: https://bradgarropy.com
-[twitter]: https://twitter.com/bradgarropy
-[youtube]: https://youtube.com/bradgarropy
-[twitch]: https://twitch.tv/bradgarropy
-[instagram]: https://instagram.com/bradgarropy
-[linkedin]: https://linkedin.com/in/bradgarropy
-[npm]: https://npmjs.com/~bradgarropy
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[twitter]: https://twitter.com/IamVj_45
+[instagram]: https://instagram.com/vijay_selvan_45
+[linkedin]: https://www.linkedin.com/in/vijai-selvan-a5490018b/
+
