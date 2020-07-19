@@ -7,9 +7,9 @@ A CSE student passionate in developing websites. The hands-on learning approach 
 > * Experience in creating comprehensive web applications using MERN stack implemented with MongoDB, Express JS, React and Node.js.
 > * Quick grasping and ability to cope up with different technologies made my life to progress smoother.
 
-* Front End Technologies: HTML, CSS, Bootstrap, Javascript, JQuery, React
-* Back End Technologies: Node Js, Express Js, MongoDB
-* Tools: VS Code, Postman, Git and Github
+* #Front End Technologies#: HTML, CSS, Bootstrap, Javascript, JQuery, React
+* #Back End Technologies: Node Js, Express Js, MongoDB
+* #Tools: VS Code, Postman, Git and Github
 
 - 🔭 I’m currently working on building a website for a small business.
 - 🌱 I’m currently learning Design, Advanced Front End Topics.
