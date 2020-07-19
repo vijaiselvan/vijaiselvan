@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on building a website for a small business.
 - 🌱 I’m currently learning Design, Advanced Front End Topics.
-- 👯 I’m looking to collaborate on creating Front End Websites.
+- 👯 I’m looking to collaborate on creating Front End website projects.
 - 🤔 I’m looking for help with design.
 - 💬 Ask me about Front End Development & Design.
 - 📫 How to reach me: vijayselvanvj@gmail.com
