@@ -26,7 +26,7 @@ A CSE student passionate in developing websites. The hands-on learning approach 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[banner]: https://twitter.com/IamVj_45/header_photo
 [twitter]: https://twitter.com/IamVj_45
 [instagram]: https://instagram.com/vijay_selvan_45
 [linkedin]: https://www.linkedin.com/in/vijai-selvan-a5490018b/
