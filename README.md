@@ -21,7 +21,7 @@ A CSE student passionate in developing websites. The hands-on learning approach 
 - 📫 How to reach me: vijayselvanvj@gmail.com
 - 😄 Pronouns: he/him
 - 💜 loving css, react, design, nodejs.
-- 😒 Fun Fact : I can hack NASA with HTML
+- 😒 Fun Fact : I can code for 24 hrs a day.
 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
