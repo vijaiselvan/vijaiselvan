@@ -63,8 +63,7 @@ Led the front-end for a college tech fest site with event registration. Focused 
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijais&show_icons=true&count_private=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijais&layout=compact&theme=radical&langs_count=6&hide=html,css,scss,shell" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=vijais&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 
