@@ -7,12 +7,10 @@
 
 ---
 
-<h3 align="center">🚀 Check out my Developer Portfolio!</h3>
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-%23007ACC?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Check+out+my+Portfolio+Website+👇;https://your-portfolio-link.com" />
 </p>
+
 
 
 ### 💼 About Me
