@@ -52,17 +52,13 @@
 
 ### 🧩 Featured Projects
 
-#### 🔹 [ELZ Flat File Recovery API](#)
-> **Java | Spring Boot | MongoDB | File I/O**  
-Rebuilt and recovered lost ELZ flat files due to critical pod restarts. Created backend API with robust date filtering, batch processing, and logging. Enabled safer production recoveries with clear audit trails.
+#### 🔹 [Synsara Symposium Website](https://synsara.netlify.app/)
+> **React | CSS | Responsive UI | Accessibility**  
+Led the front-end for a college tech fest site with event registration. Focused on UI animations, mobile-first design, and team collaboration.
 
 #### 🔹 [Alumni Network & Career Guidance Portal](#)
 > **React | Node.js | MongoDB Atlas | Full-stack Capstone**  
 Developed a career-sharing platform to connect students, alumni, and faculty. Built UI, APIs, and schemas. Integrated frontend/backend and deployed securely.
-
-#### 🔹 [Synsara Symposium Website](https://synsara.netlify.app/)
-> **React | CSS | Responsive UI | Accessibility**  
-Led the front-end for a college tech fest site with event registration. Focused on UI animations, mobile-first design, and team collaboration.
 
 ---
 
