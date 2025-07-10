@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://vijai-portfolio.netlify.app" target="_blank">
+  🔗 <a href="https://vijaiselvan.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-%23007ACC?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="portfolio badge" />
   </a>
 </p>
