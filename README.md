@@ -60,15 +60,6 @@ Led the front-end for a college tech fest site with event registration. Focused 
 
 ---
 
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vijais&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
-
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
