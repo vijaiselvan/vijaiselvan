@@ -66,8 +66,6 @@ Led the front-end for a college tech fest site with event registration. Focused 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijais&layout=compact&theme=radical&langs_count=6&hide=html,css,scss,shell" height="170"/>
 </p>
 
-> 💡 *Note: Most of my professional work has been in private repos or enterprise environments — stats here reflect selective open contributions.*
-
 
 ---
 
