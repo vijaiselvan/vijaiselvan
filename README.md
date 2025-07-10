@@ -5,13 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%7C+Spring+Boot;Moving+towards+Full-stack+Development;Building+robust+APIs+for+real-world+use+cases;Learning+React+%7C+Node.js+%7C+MongoDB;Clean+code+with+real+impact+matters;From+Support+Engineer+to+Product+Builder">
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Check+out+my+Portfolio+Website+👇;https://your-portfolio-link.com" />
+  🔗 <a href="https://vijai-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-%23007ACC?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="portfolio badge" />
+  </a>
 </p>
 
-
+---
 
 ### 💼 About Me
 
