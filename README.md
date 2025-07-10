@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijai S</h1>
-<h3 align="center">Backend Developer | UI Enthusiast | Production Support Pro | Lifelong Learner</h3>
+<h3 align="center">Java Backend Developer | Spring Boot • REST APIs • MongoDB | Production-Aware Engineering | HTML/CSS & Responsive UI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Debug.+Deploy.+Repeat.;Full-stack+developer+in+the+making.;Clean+code+and+scalable+systems+are+my+jam.">
