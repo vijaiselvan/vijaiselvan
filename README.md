@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijai S</h1>
+<h1 align="center">Hi 👋, I'm Vijai Selvan</h1>
 <h3 align="center">Java Backend Developer | Spring Boot • REST APIs • MongoDB | Production-Aware Engineering | HTML/CSS & Responsive UI</h3>
 
 <p align="center">
