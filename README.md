@@ -60,12 +60,14 @@ Led the front-end for a college tech fest site with event registration. Focused 
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijais&show_icons=true&theme=radical" alt="vijais's stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijais&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijais&layout=compact&theme=radical&langs_count=6&hide=html,css,scss,shell" height="170"/>
 </p>
+
+> 💡 *Note: Most of my professional work has been in private repos or enterprise environments — stats here reflect selective open contributions.*
+
 
 ---
 
