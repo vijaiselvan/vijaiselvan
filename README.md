@@ -7,6 +7,14 @@
 
 ---
 
+<h3 align="center">🚀 Check out my Developer Portfolio!</h3>
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-%23007ACC?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+</p>
+
+
 ### 💼 About Me
 
 - 🎓 Engineer with **3+ years** of experience in **Backend Development** at **Cognizant**, working for a major US bank
