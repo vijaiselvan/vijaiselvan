@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijai Selvan</h1>
 <h3 align="center">Java Backend Developer | Spring Boot • REST APIs • MongoDB | Production-Aware Engineering | HTML/CSS & Responsive UI</h3>
 
-<<p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Java+%7C+Spring+Boot;Transitioning+into+Full-stack+Development;Building+robust+APIs+and+real-world+projects;React+%7C+MongoDB+%7C+Node.js+learning+in+progress;Writing+clean+code+with+real+impact;Production+Support+to+Product+Builder+journey">
 </p>
 
