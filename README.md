@@ -44,7 +44,7 @@
 > **React | CSS | Responsive UI | Accessibility**  
 Led the front-end for a college tech fest site with event registration. Focused on UI animations, mobile-first design, and team collaboration.
 
-#### 🔹 [Alumni Network & Career Guidance Portal](#)
+#### 🔹 [Alumni Network & Career Guidance Portal](https://github.com/vijaiselvan/Alumni-Project)
 > **React | Node.js | MongoDB Atlas | Full-stack Capstone**  
 Developed a career-sharing platform to connect students, alumni, and faculty. Built UI, APIs, and schemas. Integrated frontend/backend and deployed securely.
 
