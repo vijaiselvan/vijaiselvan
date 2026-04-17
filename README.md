@@ -15,7 +15,7 @@
 
 ### 💼 About Me
 
-- 🎓 Engineer with **4.5+ years** of experience in **Backend Development** at **Cognizant**, working for a major US bank
+- 🎓 Engineer with **4.7+ years** of experience in **Backend Development** at **Cognizant**, working for a major US bank
 - 🔁 Expert in building **resilient Java Spring Boot APIs**, data recovery systems, and integrating secure REST clients
 - 💻 Contributed to customer onboarding flows, address validation, and ACAT account transfer functionalities
 - ⚙️ Comfortable with **MongoDB, Spring Data, JSON processing, file I/O**, batch recovery logic
